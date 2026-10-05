@@ -175,8 +175,6 @@ http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="寒战" tvg-id="寒战" tvg-logo="https://tb.zbds.top/logo/寒战.png" group-title="电影频道", 寒战
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 tvg-name="封神榜" tvg-id="封神榜" tvg-logo="https://tb.zbds.top/logo/封神榜.png" group-title="电影频道", 封神榜
-https://live.metshop.top/huya/29465849
 #EXTINF:-1 tvg-name="我不是药神" tvg-id="我不是药神" tvg-logo="https://tb.zbds.top/logo/我不是药神.png" group-title="电影频道", 我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 #EXTINF:-1 tvg-name="拆弹专家1" tvg-id="拆弹专家1" tvg-logo="https://tb.zbds.top/logo/拆弹专家1.png" group-title="电影频道", 拆弹专家1
@@ -1043,8 +1041,6 @@ https://live.metshop.top/huya/11342425
 https://live.metshop.top/huya/26355781
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29863394&huya&logo" group-title="虎牙频道",斗破-萧炎
 https://live.metshop.top/huya/29863394
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21136378&huya&logo" group-title="虎牙频道",周星驰吧
-https://live.metshop.top/huya/21136378
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352886&huya&logo" group-title="虎牙频道",电影_警匪
 https://live.metshop.top/huya/11352886
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352962&huya&logo" group-title="虎牙频道",电影_罪犯
@@ -1067,12 +1063,8 @@ https://live.metshop.top/huya/16028551
 https://live.metshop.top/huya/19863777
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1394565204&huya&logo" group-title="虎牙频道",木子先生，铁齿铜牙纪晓岚
 https://live.metshop.top/huya/11342396
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30080238&huya&logo" group-title="虎牙频道",挨打
-https://live.metshop.top/huya/30080238
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29580970&huya&logo" group-title="虎牙频道",年年营
 https://live.metshop.top/huya/29580970
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/415355&huya&logo" group-title="虎牙频道",深情默指导
-https://live.metshop.top/huya/415355
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342426&huya&logo" group-title="虎牙频道",情满四合院
 https://live.metshop.top/huya/11342426
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602085&huya&logo" group-title="虎牙频道",杨光
@@ -1129,8 +1121,6 @@ https://live.metshop.top/huya/30219264
 https://live.metshop.top/huya/26355767
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342430&huya&logo" group-title="虎牙频道",领带哥
 https://live.metshop.top/huya/11342430
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/28272846&huya&logo" group-title="虎牙频道",和珅
-https://live.metshop.top/huya/28272846
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352946&huya&logo" group-title="虎牙频道",成龙历险记|老司机
 https://live.metshop.top/huya/11352946
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30311494&huya&logo" group-title="虎牙频道",征服
@@ -1155,8 +1145,6 @@ https://live.metshop.top/huya/11342402
 https://live.metshop.top/huya/11342439
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30590779&huya&logo" group-title="虎牙频道",新橙记
 https://live.metshop.top/huya/30590779
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29982636&huya&logo" group-title="虎牙频道",特种兵|火凤凰
-https://live.metshop.top/huya/29982636
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23650804&huya&logo" group-title="虎牙频道",马大帅
 https://live.metshop.top/huya/23650804
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30523326&huya&logo" group-title="虎牙频道",家有儿女
@@ -1203,12 +1191,6 @@ https://live.metshop.top/huya/29982680
 https://live.metshop.top/huya/29982678
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/25105448&huya&logo" group-title="虎牙频道",泡菜电影
 https://live.metshop.top/huya/25105448
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29340502&huya&logo" group-title="虎牙频道",老巴电影
-https://live.metshop.top/huya/29340502
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29340612&huya&logo" group-title="虎牙频道",鹏友说电影
-https://live.metshop.top/huya/29340612
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29869799&huya&logo" group-title="虎牙频道",小丑电影
-https://live.metshop.top/huya/29869799
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/25105643&huya&logo" group-title="虎牙频道",辣条电影
 https://live.metshop.top/huya/25105643
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/25105529&huya&logo" group-title="虎牙频道",莱德电影
@@ -1267,507 +1249,283 @@ https://live.metshop.top/huya/30080229
 https://live.ottiptv.cc/huya/11342413
 #EXTINF:-1 tvg-name="猫和老鼠" group-title="虎牙频道",猫和老鼠
 https://live.ottiptv.cc/huya/11352879
-#EXTINF:-1 tvg-name="花花影院" group-title="轮播剧场",花花影院
-https://live.metshop.top/huya/1199606212355
-#EXTINF:-1 tvg-name="澳门那种电影" group-title="轮播剧场",澳门那种电影
-https://live.metshop.top/huya/1199665925808
+#EXTINF:-1 tvg-name="御.剑雨.罗摩遗体.惊悚.经典电影" group-title="轮播剧场",御.剑雨.罗摩遗体.惊悚.经典电影
+https://live.metshop.top/huya/23290745
 #EXTINF:-1 tvg-name="阿楠与山基的故事" group-title="轮播剧场",阿楠与山基的故事
-https://live.metshop.top/huya/1199651718570
-#EXTINF:-1 tvg-name="【刀刀陪看】互动电影直播间" group-title="轮播剧场",【刀刀陪看】互动电影直播间
-https://live.metshop.top/huya/1199514333883
-#EXTINF:-1 tvg-name="美娜影视" group-title="轮播剧场",美娜影视
-https://live.metshop.top/huya/1199667998171
-#EXTINF:-1 tvg-name="一起看我爱看剧" group-title="轮播剧场",一起看我爱看剧
-https://live.metshop.top/huya/1259520818833
-#EXTINF:-1 tvg-name="97前的纯港片" group-title="轮播剧场",97前的纯港片
-https://live.metshop.top/huya/1199665426435
-#EXTINF:-1 tvg-name="阳阳影视" group-title="轮播剧场",阳阳影视
-https://live.metshop.top/huya/1199641302504
-#EXTINF:-1 tvg-name="双双影剧" group-title="轮播剧场",双双影剧
-https://live.metshop.top/huya/1199649124784
-#EXTINF:-1 tvg-name="静静影视" group-title="轮播剧场",静静影视
-https://live.metshop.top/huya/1199653570362
+https://live.metshop.top/huya/30569079
 #EXTINF:-1 tvg-name="无间道 港片经典之作" group-title="轮播剧场",无间道 港片经典之作
-https://live.metshop.top/huya/1199651771174
-#EXTINF:-1 tvg-name="甜甜影院" group-title="轮播剧场",甜甜影院
-https://live.metshop.top/huya/1199585060992
+https://live.metshop.top/huya/30571777
+#EXTINF:-1 tvg-name="A计划 警察故事 成龙动作喜剧港片电影" group-title="轮播剧场",A计划 警察故事 成龙动作喜剧港片电影
+https://live.metshop.top/huya/31109333
+#EXTINF:-1 tvg-name="玄幻 高分电影" group-title="轮播剧场",玄幻 高分电影
+https://live.metshop.top/huya/31212603
+#EXTINF:-1 tvg-name="澳门那种电影" group-title="轮播剧场",澳门那种电影
+https://live.metshop.top/huya/31307674
+#EXTINF:-1 tvg-name="【刀刀陪看】互动电影直播间" group-title="轮播剧场",【刀刀陪看】互动电影直播间
+https://live.metshop.top/huya/31235261
+#EXTINF:-1 tvg-name="鬼吹灯系列  胡八一" group-title="轮播剧场",鬼吹灯系列  胡八一
+https://live.metshop.top/huya/31388739
+#EXTINF:-1 tvg-name="漫威电影" group-title="轮播剧场",漫威电影
+https://live.metshop.top/huya/30526458
+#EXTINF:-1 tvg-name="港片 经典" group-title="轮播剧场",港片 经典
+https://live.metshop.top/huya/30682679
+#EXTINF:-1 tvg-name="西游记~TVB版" group-title="轮播剧场",西游记~TVB版
+https://live.metshop.top/huya/30867383
+#EXTINF:-1 tvg-name="经典电影" group-title="轮播剧场",经典电影
+https://live.metshop.top/huya/31308716
+#EXTINF:-1 tvg-name="赵本山~鹊刀门~雀刀门~喜剧~搞笑~" group-title="轮播剧场",赵本山~鹊刀门~雀刀门~喜剧~搞笑~
+https://live.metshop.top/huya/29805872
+#EXTINF:-1 tvg-name="林正英  僵尸电影" group-title="轮播剧场",林正英  僵尸电影
+https://live.metshop.top/huya/31371700
+#EXTINF:-1 tvg-name="97前的纯港片" group-title="轮播剧场",97前的纯港片
+https://live.metshop.top/huya/31297160
+#EXTINF:-1 tvg-name="漫威系列" group-title="轮播剧场",漫威系列
+https://live.metshop.top/huya/31093836
+#EXTINF:-1 tvg-name="康熙微服私访记，三德子法印何在？" group-title="轮播剧场",康熙微服私访记，三德子法印何在？
+https://live.metshop.top/huya/30712558
+#EXTINF:-1 tvg-name="港片  警匪  犯罪" group-title="轮播剧场",港片  警匪  犯罪
+https://live.metshop.top/huya/30597893
 #EXTINF:-1 tvg-name="洪金宝元彪成龙合作电影" group-title="轮播剧场",洪金宝元彪成龙合作电影
-https://live.metshop.top/huya/1199665504079
-#EXTINF:-1 tvg-name="小璐影视" group-title="轮播剧场",小璐影视
-https://live.metshop.top/huya/1259519701392
+https://live.metshop.top/huya/31298889
+#EXTINF:-1 tvg-name="雍正大帝~传奇一生" group-title="轮播剧场",雍正大帝~传奇一生
+https://live.metshop.top/huya/29807061
+#EXTINF:-1 tvg-name="雍正王朝康熙四爷八爷抢皇位年羹尧李卫当官" group-title="轮播剧场",雍正王朝康熙四爷八爷抢皇位年羹尧李卫当官
+https://live.metshop.top/huya/30655127
 #EXTINF:-1 tvg-name="我摊牌啦 一起看热门大片" group-title="轮播剧场",我摊牌啦 一起看热门大片
-https://live.metshop.top/huya/1524439855
-#EXTINF:-1 tvg-name="海湾电影" group-title="轮播剧场",海湾电影
-https://live.metshop.top/huya/1199667574288
-#EXTINF:-1 tvg-name="齐鲁影视" group-title="轮播剧场",齐鲁影视
-https://live.metshop.top/huya/1199641321485
+https://live.metshop.top/huya/880261
+#EXTINF:-1 tvg-name="科幻  悬疑  惊悚  灾难  动画" group-title="轮播剧场",科幻  悬疑  惊悚  灾难  动画
+https://live.metshop.top/huya/19807776
+#EXTINF:-1 tvg-name="新三国  桃园三结义" group-title="轮播剧场",新三国  桃园三结义
+https://live.metshop.top/huya/31371694
+#EXTINF:-1 tvg-name="神探狄仁杰  57明白 元芳 神断狄仁杰" group-title="轮播剧场",神探狄仁杰  57明白 元芳 神断狄仁杰
+https://live.metshop.top/huya/30986994
 #EXTINF:-1 tvg-name="爆笑综艺[五哈]1-4季来了~" group-title="轮播剧场",爆笑综艺[五哈]1-4季来了~
-https://live.metshop.top/huya/1239543153980
-#EXTINF:-1 tvg-name="芸芸看剧" group-title="轮播剧场",芸芸看剧
-https://live.metshop.top/huya/1199655467394
-#EXTINF:-1 tvg-name="菲菲爱剧" group-title="轮播剧场",菲菲爱剧
-https://live.metshop.top/huya/1199663467987
-#EXTINF:-1 tvg-name="我是一颗小虎牙" group-title="轮播剧场",我是一颗小虎牙
-https://live.metshop.top/huya/2293883470
-#EXTINF:-1 tvg-name="七七爱剧" group-title="轮播剧场",七七爱剧
-https://live.metshop.top/huya/1199661294751
-#EXTINF:-1 tvg-name="喜剧之王周星驰经典电影 一起来看！！" group-title="轮播剧场",喜剧之王周星驰经典电影 一起来看！！
-https://live.metshop.top/huya/1239543465882
-#EXTINF:-1 tvg-name="陈翔六点半·爆笑迷你剧" group-title="轮播剧场",陈翔六点半·爆笑迷你剧
-https://live.metshop.top/huya/1352054947
-#EXTINF:-1 tvg-name="[鹊刀门] 赵本山宋小宝 最好看的东北喜剧" group-title="轮播剧场",[鹊刀门] 赵本山宋小宝 最好看的东北喜剧
-https://live.metshop.top/huya/1423787867
-#EXTINF:-1 tvg-name="九思剧场" group-title="轮播剧场",九思剧场
-https://live.metshop.top/huya/1199649555276
-#EXTINF:-1 tvg-name="国产经典探案神剧" group-title="轮播剧场",国产经典探案神剧
-https://live.metshop.top/huya/1099531752622
-#EXTINF:-1 tvg-name="柯南剧场版，真相只有一个！" group-title="轮播剧场",柯南剧场版，真相只有一个！
-https://live.metshop.top/huya/1239543153970
-#EXTINF:-1 tvg-name="入梦影视" group-title="轮播剧场",入梦影视
-https://live.metshop.top/huya/1199660524228
-#EXTINF:-1 tvg-name="【虎牙影院】沈腾经典片放映" group-title="轮播剧场",【虎牙影院】沈腾经典片放映
-https://live.metshop.top/huya/1524418085
+https://live.metshop.top/huya/30080247
+#EXTINF:-1 tvg-name="赵本山 宋小宝 搞笑喜剧" group-title="轮播剧场",赵本山 宋小宝 搞笑喜剧
+https://live.metshop.top/huya/30832594
+#EXTINF:-1 tvg-name="一起看剧" group-title="轮播剧场",一起看剧
+https://live.metshop.top/huya/31192789
+#EXTINF:-1 tvg-name="搞笑喜剧 赵本山" group-title="轮播剧场",搞笑喜剧 赵本山
+https://live.metshop.top/huya/30569910
+#EXTINF:-1 tvg-name="影视经典" group-title="轮播剧场",影视经典
+https://live.metshop.top/huya/31125245
 #EXTINF:-1 tvg-name="火影忍者主线解说" group-title="轮播剧场",火影忍者主线解说
-https://live.metshop.top/huya/1199512574006
-#EXTINF:-1 tvg-name="小虎爱看剧" group-title="轮播剧场",小虎爱看剧
-https://live.metshop.top/huya/1199661675384
+https://live.metshop.top/huya/17269326
+#EXTINF:-1 tvg-name="我是 士兵 许三多~" group-title="轮播剧场",我是 士兵 许三多~
+https://live.metshop.top/huya/31121607
+#EXTINF:-1 tvg-name="喜剧之王周星驰经典电影 一起来看！！" group-title="轮播剧场",喜剧之王周星驰经典电影 一起来看！！
+https://live.metshop.top/huya/30631741
 #EXTINF:-1 tvg-name="大盛魁 草原商贸帝国的兴衰史" group-title="轮播剧场",大盛魁 草原商贸帝国的兴衰史
-https://live.metshop.top/huya/1199646966896
-#EXTINF:-1 tvg-name="豪门绑架案改编电影《金钱世界》" group-title="轮播剧场",豪门绑架案改编电影《金钱世界》
-https://live.metshop.top/huya/493317780
-#EXTINF:-1 tvg-name="天地争霸美猴王 这个唐僧是最好的唐僧了吧" group-title="轮播剧场",天地争霸美猴王 这个唐僧是最好的唐僧了吧
-https://live.metshop.top/huya/1239543150215
-#EXTINF:-1 tvg-name="泰迪熊 从头骂到尾！这剧真敢拍" group-title="轮播剧场",泰迪熊 从头骂到尾！这剧真敢拍
-https://live.metshop.top/huya/1099531785141
-#EXTINF:-1 tvg-name="新七龙珠，武林大会" group-title="轮播剧场",新七龙珠，武林大会
-https://live.metshop.top/huya/1199588542242
-#EXTINF:-1 tvg-name="恐怖电影潜伏系列第四部：锁命亡魂" group-title="轮播剧场",恐怖电影潜伏系列第四部：锁命亡魂
-https://live.metshop.top/huya/1199557791348
+https://live.metshop.top/huya/30292086
+#EXTINF:-1 tvg-name="80.90 经典武侠电影" group-title="轮播剧场",80.90 经典武侠电影
+https://live.metshop.top/huya/31254142
+#EXTINF:-1 tvg-name="喜剧电影" group-title="轮播剧场",喜剧电影
+https://live.metshop.top/huya/31196942
 #EXTINF:-1 tvg-name="释小龙电影合集" group-title="轮播剧场",释小龙电影合集
-https://live.metshop.top/huya/1239543465888
-#EXTINF:-1 tvg-name="[洗冤录] 解开每一具尸体的未了之愿" group-title="轮播剧场",[洗冤录] 解开每一具尸体的未了之愿
-https://live.metshop.top/huya/1239543150207
-#EXTINF:-1 tvg-name="小丑讲电影" group-title="轮播剧场",小丑讲电影
-https://live.metshop.top/huya/1199511997436
-#EXTINF:-1 tvg-name="风浪越大鱼越贵" group-title="轮播剧场",风浪越大鱼越贵
-https://live.metshop.top/huya/1199646778517
-#EXTINF:-1 tvg-name="我爱男保姆 大头大嫂的宝藏剧" group-title="轮播剧场",我爱男保姆 大头大嫂的宝藏剧
-https://live.metshop.top/huya/1199638694833
+https://live.metshop.top/huya/30631747
+#EXTINF:-1 tvg-name="恐怖电影潜伏系列第四部：锁命亡魂" group-title="轮播剧场",恐怖电影潜伏系列第四部：锁命亡魂
+https://live.metshop.top/huya/23419131
+#EXTINF:-1 tvg-name="新七龙珠，武林大会" group-title="轮播剧场",新七龙珠，武林大会
+https://live.metshop.top/huya/25650806
 #EXTINF:-1 tvg-name="《僵尸道长》《僵约》等经典港剧" group-title="轮播剧场",《僵尸道长》《僵约》等经典港剧
-https://live.metshop.top/huya/1199515315044
-#EXTINF:-1 tvg-name="[封神榜] 是命运操控英雄，还是英雄改写命运？" group-title="轮播剧场",[封神榜] 是命运操控英雄，还是英雄改写命运？
-https://live.metshop.top/huya/1239543150205
+https://live.metshop.top/huya/18441722
 #EXTINF:-1 tvg-name="欢迎来到我的直播间" group-title="轮播剧场",欢迎来到我的直播间
-https://live.metshop.top/huya/1199629101795
-#EXTINF:-1 tvg-name="《绝命毒师》第一季第六集，老白化身光头强，一块晶体炸屠库老巢" group-title="轮播剧场",《绝命毒师》第一季第六集，老白化身光头强，一块晶体炸屠库老巢
-https://live.metshop.top/huya/1199526558405
-#EXTINF:-1 tvg-name="香港经典动作电影 黄飞鸿方世玉" group-title="轮播剧场",香港经典动作电影 黄飞鸿方世玉
-https://live.metshop.top/huya/1239543153945
-#EXTINF:-1 tvg-name="大片看这里" group-title="轮播剧场",大片看这里
-https://live.metshop.top/huya/1239543153946
-#EXTINF:-1 tvg-name="一起来看搞笑恐怖电影 弹幕护体" group-title="轮播剧场",一起来看搞笑恐怖电影 弹幕护体
-https://live.metshop.top/huya/1524418070
-#EXTINF:-1 tvg-name="yang光的快乐生活，轻松一夏的必看喜剧！" group-title="轮播剧场",yang光的快乐生活，轻松一夏的必看喜剧！
-https://live.metshop.top/huya/1524439853
-#EXTINF:-1 tvg-name="热血战争电影 志愿军万里归途" group-title="轮播剧场",热血战争电影 志愿军万里归途
-https://live.metshop.top/huya/1099531752806
-#EXTINF:-1 tvg-name="国产武侠剧巅峰之作，至今无人敢翻拍，一口气看完所有剧情！" group-title="轮播剧场",国产武侠剧巅峰之作，至今无人敢翻拍，一口气看完所有剧情！
-https://live.metshop.top/huya/1279520922847
-#EXTINF:-1 tvg-name="超爽动作电影 九龙城寨精武英雄" group-title="轮播剧场",超爽动作电影 九龙城寨精武英雄
-https://live.metshop.top/huya/1081939992
-#EXTINF:-1 tvg-name="【越哥】《百鸟朝凤》" group-title="轮播剧场",【越哥】《百鸟朝凤》
-https://live.metshop.top/huya/1056335821
-#EXTINF:-1 tvg-name="【大秦赋】大秦帝国系列终章" group-title="轮播剧场",【大秦赋】大秦帝国系列终章
-https://live.metshop.top/huya/1199564003640
-#EXTINF:-1 tvg-name="老家门口唱大戏 比乡村爱情还好看" group-title="轮播剧场",老家门口唱大戏 比乡村爱情还好看
-https://live.metshop.top/huya/1199649386407
-#EXTINF:-1 tvg-name="刘老根 再难重现的经典好剧" group-title="轮播剧场",刘老根 再难重现的经典好剧
-https://live.metshop.top/huya/1199560576953
-#EXTINF:-1 tvg-name="古装武侠电影 方世玉黄飞鸿" group-title="轮播剧场",古装武侠电影 方世玉黄飞鸿
-https://live.metshop.top/huya/1239543150688
+https://live.metshop.top/huya/28806915
+#EXTINF:-1 tvg-name="武汉妹子真人直播~所有电影任你投票哈~" group-title="轮播剧场",武汉妹子真人直播~所有电影任你投票哈~
+https://live.metshop.top/huya/30697189
 #EXTINF:-1 tvg-name="史上最骚最燃解说！进来一起燃！" group-title="轮播剧场",史上最骚最燃解说！进来一起燃！
-https://live.metshop.top/huya/1335892300
-#EXTINF:-1 tvg-name="高分谍战剧[风筝]，送你上路的是你的同志" group-title="轮播剧场",高分谍战剧[风筝]，送你上路的是你的同志
-https://live.metshop.top/huya/1239543153960
-#EXTINF:-1 tvg-name="爆笑喜剧电影 热辣滚烫保你平安" group-title="轮播剧场",爆笑喜剧电影 热辣滚烫保你平安
-https://live.metshop.top/huya/1524434066
-#EXTINF:-1 tvg-name="刑事侦缉档案" group-title="轮播剧场",刑事侦缉档案
-https://live.metshop.top/huya/1239543150213
-#EXTINF:-1 tvg-name="集香港电影经典之大作！" group-title="轮播剧场",集香港电影经典之大作！
-https://live.metshop.top/huya/1239543465847
+https://live.metshop.top/huya/16162176
+#EXTINF:-1 tvg-name="超爽动作电影 九龙城寨精武英雄" group-title="轮播剧场",超爽动作电影 九龙城寨精武英雄
+https://live.metshop.top/huya/10871113
 #EXTINF:-1 tvg-name="奇幻电影里探险 交换人生重返20岁" group-title="轮播剧场",奇幻电影里探险 交换人生重返20岁
-https://live.metshop.top/huya/1099531840924
-#EXTINF:-1 tvg-name="童心依旧，动画电影！哆啦A梦航海王" group-title="轮播剧场",童心依旧，动画电影！哆啦A梦航海王
-https://live.metshop.top/huya/1423782037
-#EXTINF:-1 tvg-name="玫瑰的故事, 黄亦玫的爱恨情仇~" group-title="轮播剧场",玫瑰的故事, 黄亦玫的爱恨情仇~
-https://live.metshop.top/huya/1199563481280
-#EXTINF:-1 tvg-name="危险犯罪电影 坚如磐石周处除三害" group-title="轮播剧场",危险犯罪电影 坚如磐石周处除三害
-https://live.metshop.top/huya/1099531840876
-#EXTINF:-1 tvg-name="持枪匪徒突袭，每个现场都触目惊心，港式警匪片《非常突然》" group-title="轮播剧场",持枪匪徒突袭，每个现场都触目惊心，港式警匪片《非常突然》
-https://live.metshop.top/huya/1597561250
-#EXTINF:-1 tvg-name="[楚汉骄雄] 再现历史风云，刘邦与项羽的智勇较量" group-title="轮播剧场",[楚汉骄雄] 再现历史风云，刘邦与项羽的智勇较量
-https://live.metshop.top/huya/1239543150208
-#EXTINF:-1 tvg-name="冒险电影启程 航海王飞鹰计划" group-title="轮播剧场",冒险电影启程 航海王飞鹰计划
-https://live.metshop.top/huya/1099531752760
-#EXTINF:-1 tvg-name="经典已成绝响，这么好的剧应该值9分啊" group-title="轮播剧场",经典已成绝响，这么好的剧应该值9分啊
-https://live.metshop.top/huya/1239543150768
-#EXTINF:-1 tvg-name="刘德华电影_经典系列" group-title="轮播剧场",刘德华电影_经典系列
-https://live.metshop.top/huya/1394575547
-#EXTINF:-1 tvg-name="金庸经典剧 24小时轮播" group-title="轮播剧场",金庸经典剧 24小时轮播
-https://live.metshop.top/huya/1524439846
-#EXTINF:-1 tvg-name="【小川】《一周不死，全额退款》" group-title="轮播剧场",【小川】《一周不死，全额退款》
-https://live.metshop.top/huya/1483183983
-#EXTINF:-1 tvg-name="李连杰经典电影" group-title="轮播剧场",李连杰经典电影
-https://live.metshop.top/huya/1394565196
-#EXTINF:-1 tvg-name="超级英雄电影·永远的神！" group-title="轮播剧场",超级英雄电影·永远的神！
-https://live.metshop.top/huya/1423787845
-#EXTINF:-1 tvg-name="大师兄，师傅被妖怪抓走了！" group-title="轮播剧场",大师兄，师傅被妖怪抓走了！
-https://live.metshop.top/huya/1239543150216
-#EXTINF:-1 tvg-name="[创世纪] 梦想与背叛交织，你能否预测下一个商业帝国的崛起？" group-title="轮播剧场",[创世纪] 梦想与背叛交织，你能否预测下一个商业帝国的崛起？
-https://live.metshop.top/huya/1239543150209
-#EXTINF:-1 tvg-name="经典重温！四大才子互怼名场面~" group-title="轮播剧场",经典重温！四大才子互怼名场面~
-https://live.metshop.top/huya/1199556584546
-#EXTINF:-1 tvg-name="从最弱 E 级猎人到暗影君主，全程爽到跺脚" group-title="轮播剧场",从最弱 E 级猎人到暗影君主，全程爽到跺脚
-https://live.metshop.top/huya/1239543150203
-#EXTINF:-1 tvg-name="罗峰开挂成长之路又来啦" group-title="轮播剧场",罗峰开挂成长之路又来啦
-https://live.metshop.top/huya/1199564060573
-#EXTINF:-1 tvg-name="黄金圣母烂好人 刘三好" group-title="轮播剧场",黄金圣母烂好人 刘三好
-https://live.metshop.top/huya/1239543150217
-#EXTINF:-1 tvg-name="国产高燃动作电影 姿势要帅" group-title="轮播剧场",国产高燃动作电影 姿势要帅
-https://live.metshop.top/huya/1524434083
-#EXTINF:-1 tvg-name="谍战剧天花板，速看" group-title="轮播剧场",谍战剧天花板，速看
-https://live.metshop.top/huya/1099531840857
+https://live.metshop.top/huya/26355847
+#EXTINF:-1 tvg-name="热血战争电影 志愿军万里归途" group-title="轮播剧场",热血战争电影 志愿军万里归途
+https://live.metshop.top/huya/21059618
+#EXTINF:-1 tvg-name="[封神榜] 是命运操控英雄，还是英雄改写命运？" group-title="轮播剧场",[封神榜] 是命运操控英雄，还是英雄改写命运？
+https://live.metshop.top/huya/29465849
+#EXTINF:-1 tvg-name="爆笑喜剧电影 热辣滚烫保你平安" group-title="轮播剧场",爆笑喜剧电影 热辣滚烫保你平安
+https://live.metshop.top/huya/11602031
+#EXTINF:-1 tvg-name="古装武侠电影 方世玉黄飞鸿" group-title="轮播剧场",古装武侠电影 方世玉黄飞鸿
+https://live.metshop.top/huya/29982611
+#EXTINF:-1 tvg-name="【大秦赋】大秦帝国系列终章" group-title="轮播剧场",【大秦赋】大秦帝国系列终章
+https://live.metshop.top/huya/23903130
+#EXTINF:-1 tvg-name="香港经典动作电影 黄飞鸿方世玉" group-title="轮播剧场",香港经典动作电影 黄飞鸿方世玉
+https://live.metshop.top/huya/30080197
+#EXTINF:-1 tvg-name="集香港电影经典之大作！" group-title="轮播剧场",集香港电影经典之大作！
+https://live.metshop.top/huya/30631706
 #EXTINF:-1 tvg-name="《乔我说》海贼王15" group-title="轮播剧场",《乔我说》海贼王15
-https://live.metshop.top/huya/1199513582384
-#EXTINF:-1 tvg-name="校园神剧: 一起同过窗" group-title="轮播剧场",校园神剧: 一起同过窗
-https://live.metshop.top/huya/1239543153963
-#EXTINF:-1 tvg-name="大江大河·时代大发展" group-title="轮播剧场",大江大河·时代大发展
-https://live.metshop.top/huya/1199558578360
-#EXTINF:-1 tvg-name="浪漫爱情电影 我爱你四海" group-title="轮播剧场",浪漫爱情电影 我爱你四海
-https://live.metshop.top/huya/1239543150718
-#EXTINF:-1 tvg-name="高分爱情电影《意外制造公司》" group-title="轮播剧场",高分爱情电影《意外制造公司》
-https://live.metshop.top/huya/2328544838
+https://live.metshop.top/huya/17941367
+#EXTINF:-1 tvg-name="大片看这里" group-title="轮播剧场",大片看这里
+https://live.metshop.top/huya/30080211
+#EXTINF:-1 tvg-name="童心依旧，动画电影！哆啦A梦航海王" group-title="轮播剧场",童心依旧，动画电影！哆啦A梦航海王
+https://live.metshop.top/huya/11352878
+#EXTINF:-1 tvg-name="罗峰开挂成长之路又来啦" group-title="轮播剧场",罗峰开挂成长之路又来啦
+https://live.metshop.top/huya/23902242
 #EXTINF:-1 tvg-name="一起看纪晓岚调戏和珅" group-title="轮播剧场",一起看纪晓岚调戏和珅
-https://live.metshop.top/huya/1199647025000
-#EXTINF:-1 tvg-name="人狠话不多,王宝强经典电影！" group-title="轮播剧场",人狠话不多,王宝强经典电影！
-https://live.metshop.top/huya/1239543153983
-#EXTINF:-1 tvg-name="赫丽摸宇，开始推理吧2！" group-title="轮播剧场",赫丽摸宇，开始推理吧2！
-https://live.metshop.top/huya/1199561181026
-#EXTINF:-1 tvg-name="[大唐双龙传] 以布衣之身，搅动天下风云" group-title="轮播剧场",[大唐双龙传] 以布衣之身，搅动天下风云
-https://live.metshop.top/huya/1239543150206
-#EXTINF:-1 tvg-name="[陀枪师姐] 警花持枪，柔情铁骨，正义与爱情如何交织？" group-title="轮播剧场",[陀枪师姐] 警花持枪，柔情铁骨，正义与爱情如何交织？
-https://live.metshop.top/huya/1239543150212
-#EXTINF:-1 tvg-name="良心医疗剧 主打的就是一个真实" group-title="轮播剧场",良心医疗剧 主打的就是一个真实
-https://live.metshop.top/huya/1423782054
-#EXTINF:-1 tvg-name="香港喜剧电影 逃学威龙笑林小子" group-title="轮播剧场",香港喜剧电影 逃学威龙笑林小子
-https://live.metshop.top/huya/1099531752620
-#EXTINF:-1 tvg-name="国产警匪片巅峰，哪有什么岁月静好，只不过是有人替我们负重前行" group-title="轮播剧场",国产警匪片巅峰，哪有什么岁月静好，只不过是有人替我们负重前行
-https://live.metshop.top/huya/1199555769841
-#EXTINF:-1 tvg-name="鉴证实录 早期的港剧，堪称经典" group-title="轮播剧场",鉴证实录 早期的港剧，堪称经典
-https://live.metshop.top/huya/1099531753534
-#EXTINF:-1 tvg-name="经典港剧再现！《刑侦》四季连播，全是童年难忘的回忆！" group-title="轮播剧场",经典港剧再现！《刑侦》四季连播，全是童年难忘的回忆！
-https://live.metshop.top/huya/1199556528761
+https://live.metshop.top/huya/30297011
+#EXTINF:-1 tvg-name="超级英雄电影·永远的神！" group-title="轮播剧场",超级英雄电影·永远的神！
+https://live.metshop.top/huya/11352950
+#EXTINF:-1 tvg-name="黄金圣母烂好人 刘三好" group-title="轮播剧场",黄金圣母烂好人 刘三好
+https://live.metshop.top/huya/29465861
+#EXTINF:-1 tvg-name="经典重温！四大才子互怼名场面~" group-title="轮播剧场",经典重温！四大才子互怼名场面~
+https://live.metshop.top/huya/23352535
+#EXTINF:-1 tvg-name="大师兄，师傅被妖怪抓走了！" group-title="轮播剧场",大师兄，师傅被妖怪抓走了！
+https://live.metshop.top/huya/29465860
+#EXTINF:-1 tvg-name="危险犯罪电影 坚如磐石周处除三害" group-title="轮播剧场",危险犯罪电影 坚如磐石周处除三害
+https://live.metshop.top/huya/26355797
+#EXTINF:-1 tvg-name="老家门口唱大戏 比乡村爱情还好看" group-title="轮播剧场",老家门口唱大戏 比乡村爱情还好看
+https://live.metshop.top/huya/30439802
 #EXTINF:-1 tvg-name="伏击 保卫南京保卫朝天宫国宝" group-title="轮播剧场",伏击 保卫南京保卫朝天宫国宝
-https://live.metshop.top/huya/1199599114986
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼来啦，来做羊村守护者！" group-title="轮播剧场",喜羊羊与灰太狼来啦，来做羊村守护者！
-https://live.metshop.top/huya/1199563459172
-#EXTINF:-1 tvg-name="刑侦剧天花板！靠表情破案，比普通刑侦剧带感 10 倍" group-title="轮播剧场",刑侦剧天花板！靠表情破案，比普通刑侦剧带感 10 倍
-https://live.metshop.top/huya/1099531752608
+https://live.metshop.top/huya/30310419
+#EXTINF:-1 tvg-name="冒险电影启程 航海王飞鹰计划" group-title="轮播剧场",冒险电影启程 航海王飞鹰计划
+https://live.metshop.top/huya/21059566
+#EXTINF:-1 tvg-name="香港喜剧电影 逃学威龙笑林小子" group-title="轮播剧场",香港喜剧电影 逃学威龙笑林小子
+https://live.metshop.top/huya/20969142
+#EXTINF:-1 tvg-name="鉴证实录 早期的港剧，堪称经典" group-title="轮播剧场",鉴证实录 早期的港剧，堪称经典
+https://live.metshop.top/huya/21241769
 #EXTINF:-1 tvg-name="电影最TOP" group-title="轮播剧场",电影最TOP
-https://live.metshop.top/huya/1239543150754
-#EXTINF:-1 tvg-name="笑看风云，谁能在变幻莫测的商战与情网中站到最后？" group-title="轮播剧场",笑看风云，谁能在变幻莫测的商战与情网中站到最后？
-https://live.metshop.top/huya/1239543150214
+https://live.metshop.top/huya/29982676
+#EXTINF:-1 tvg-name="粤语电影, 还是那个味！扫毒九龙城寨" group-title="轮播剧场",粤语电影, 还是那个味！扫毒九龙城寨
+https://live.metshop.top/huya/21059572
 #EXTINF:-1 tvg-name="大片看这里 九龙城寨扫毒3" group-title="轮播剧场",大片看这里 九龙城寨扫毒3
-https://live.metshop.top/huya/1423787847
-#EXTINF:-1 tvg-name="热血警匪电影 他逃他追插翅难飞" group-title="轮播剧场",热血警匪电影 他逃他追插翅难飞
-https://live.metshop.top/huya/1524434100
-#EXTINF:-1 tvg-name="[妙手仁心] 生死边缘的抉择你能否感同身受？" group-title="轮播剧场",[妙手仁心] 生死边缘的抉择你能否感同身受？
-https://live.metshop.top/huya/1239543150210
-#EXTINF:-1 tvg-name="古装武侠电影 太极张三丰武状元苏乞儿" group-title="轮播剧场",古装武侠电影 太极张三丰武状元苏乞儿
-https://live.metshop.top/huya/1099531840850
+https://live.metshop.top/huya/11352952
 #EXTINF:-1 tvg-name="怪兽宇宙电影！哥斯拉大战金刚" group-title="轮播剧场",怪兽宇宙电影！哥斯拉大战金刚
-https://live.metshop.top/huya/1239543150752
-#EXTINF:-1 tvg-name="开开心心每一天 合家欢动画片" group-title="轮播剧场",开开心心每一天 合家欢动画片
-https://live.metshop.top/huya/1524418067
-#EXTINF:-1 tvg-name="[扫黄先锋] 暗夜追光，如何揭开欲望背后的丑陋？" group-title="轮播剧场",[扫黄先锋] 暗夜追光，如何揭开欲望背后的丑陋？
-https://live.metshop.top/huya/1239543150211
-#EXTINF:-1 tvg-name="玄幻剧场·体验另一种生活！" group-title="轮播剧场",玄幻剧场·体验另一种生活！
-https://live.metshop.top/huya/1394575536
+https://live.metshop.top/huya/29982674
+#EXTINF:-1 tvg-name="【荣誉】史上最好看的警匪电视剧" group-title="轮播剧场",【荣誉】史上最好看的警匪电视剧
+https://live.metshop.top/huya/11342400
 #EXTINF:-1 tvg-name="探秘悬疑电影 极寒之城寻枪" group-title="轮播剧场",探秘悬疑电影 极寒之城寻枪
-https://live.metshop.top/huya/1239543150719
-#EXTINF:-1 tvg-name="林正英十种角色性格，宗师范儿，又小气又爱耍小聪明" group-title="轮播剧场",林正英十种角色性格，宗师范儿，又小气又爱耍小聪明
-https://live.metshop.top/huya/1199532722561
-#EXTINF:-1 tvg-name="速看惊悚科幻" group-title="轮播剧场",速看惊悚科幻
-https://live.metshop.top/huya/2242935432
-#EXTINF:-1 tvg-name="最新科幻大片 速来认领你的年度颅内狂欢" group-title="轮播剧场",最新科幻大片 速来认领你的年度颅内狂欢
-https://live.metshop.top/huya/1423787870
-#EXTINF:-1 tvg-name="[28岁未成年]回到17岁的高中校园" group-title="轮播剧场",[28岁未成年]回到17岁的高中校园
-https://live.metshop.top/huya/1279521001221
-#EXTINF:-1 tvg-name="校园热血电影，不比古惑仔差" group-title="轮播剧场",校园热血电影，不比古惑仔差
-https://live.metshop.top/huya/1423787819
+https://live.metshop.top/huya/29982641
+#EXTINF:-1 tvg-name="古装武侠电影 太极张三丰武状元苏乞儿" group-title="轮播剧场",古装武侠电影 太极张三丰武状元苏乞儿
+https://live.metshop.top/huya/26355770
+#EXTINF:-1 tvg-name="日本动画电影  感受极致美学" group-title="轮播剧场",日本动画电影  感受极致美学
+https://live.metshop.top/huya/30080242
+#EXTINF:-1 tvg-name="热血警匪电影 他逃他追插翅难飞" group-title="轮播剧场",热血警匪电影 他逃他追插翅难飞
+https://live.metshop.top/huya/30041512
 #EXTINF:-1 tvg-name="我要意大利炮" group-title="轮播剧场",我要意大利炮
-https://live.metshop.top/huya/1199646893012
-#EXTINF:-1 tvg-name="搞笑喜剧：最佳拍档 精装追女仔" group-title="轮播剧场",搞笑喜剧：最佳拍档 精装追女仔
-https://live.metshop.top/huya/1394575546
-#EXTINF:-1 tvg-name="年度好剧，荡气回肠" group-title="轮播剧场",年度好剧，荡气回肠
-https://live.metshop.top/huya/1099531752753
-#EXTINF:-1 tvg-name="【双城之战】英雄联盟超燃动画！" group-title="轮播剧场",【双城之战】英雄联盟超燃动画！
-https://live.metshop.top/huya/1199563564801
-#EXTINF:-1 tvg-name="[诺兰电影] 科幻史诗巨作！" group-title="轮播剧场",[诺兰电影] 科幻史诗巨作！
-https://live.metshop.top/huya/1239543153989
-#EXTINF:-1 tvg-name="星球大战: 宇宙电影的起点" group-title="轮播剧场",星球大战: 宇宙电影的起点
-https://live.metshop.top/huya/1239543153967
-#EXTINF:-1 tvg-name="我的兄弟叫顺溜姐妹篇 我的父亲是板凳" group-title="轮播剧场",我的兄弟叫顺溜姐妹篇 我的父亲是板凳
-https://live.metshop.top/huya/1199646966845
-#EXTINF:-1 tvg-name="子华的经典情景喜剧" group-title="轮播剧场",子华的经典情景喜剧
-https://live.metshop.top/huya/1239543150729
-#EXTINF:-1 tvg-name="冲出月亮岛 抗战越狱剧" group-title="轮播剧场",冲出月亮岛 抗战越狱剧
-https://live.metshop.top/huya/1199645807065
-#EXTINF:-1 tvg-name="武侠剧解说-非凡武林" group-title="轮播剧场",武侠剧解说-非凡武林
-https://live.metshop.top/huya/1239543150755
-#EXTINF:-1 tvg-name="童年回忆，明道经典偶像剧" group-title="轮播剧场",童年回忆，明道经典偶像剧
-https://live.metshop.top/huya/1099531840854
-#EXTINF:-1 tvg-name="不挤电影院也能笑着过春节！" group-title="轮播剧场",不挤电影院也能笑着过春节！
-https://live.metshop.top/huya/1423782065
-#EXTINF:-1 tvg-name="经典灾难大片 人类在大自然面前不值一提" group-title="轮播剧场",经典灾难大片 人类在大自然面前不值一提
-https://live.metshop.top/huya/1199561185543
-#EXTINF:-1 tvg-name="谈判专家 欧阳出品 必属精品" group-title="轮播剧场",谈判专家 欧阳出品 必属精品
-https://live.metshop.top/huya/1199563551865
-#EXTINF:-1 tvg-name="欢乐喜剧人 一起笑哈哈" group-title="轮播剧场",欢乐喜剧人 一起笑哈哈
-https://live.metshop.top/huya/1239543153940
-#EXTINF:-1 tvg-name="退婚、虐渣、搞事业！黑客大小姐的逆袭路太飒了" group-title="轮播剧场",退婚、虐渣、搞事业！黑客大小姐的逆袭路太飒了
-https://live.metshop.top/huya/1199655583917
+https://live.metshop.top/huya/30287258
+#EXTINF:-1 tvg-name="[28岁未成年]回到17岁的高中校园" group-title="轮播剧场",[28岁未成年]回到17岁的高中校园
+https://live.metshop.top/huya/20380270
 #EXTINF:-1 tvg-name="旷世真情 古代爱情故事" group-title="轮播剧场",旷世真情 古代爱情故事
-https://live.metshop.top/huya/1199649390929
+https://live.metshop.top/huya/30439834
 #EXTINF:-1 tvg-name="【乱世丽人】" group-title="轮播剧场",【乱世丽人】
-https://live.metshop.top/huya/1199649387942
-#EXTINF:-1 tvg-name="情人节：港片教你追女仔" group-title="轮播剧场",情人节：港片教你追女仔
-https://live.metshop.top/huya/1524434085
-#EXTINF:-1 tvg-name="科幻电影集大成，探索神秘宇宙" group-title="轮播剧场",科幻电影集大成，探索神秘宇宙
-https://live.metshop.top/huya/1099531840860
-#EXTINF:-1 tvg-name="【喜剧片】进来一起笑哈哈" group-title="轮播剧场",【喜剧片】进来一起笑哈哈
-https://live.metshop.top/huya/1239543153950
-#EXTINF:-1 tvg-name="超级英雄电影，有没有你的爱" group-title="轮播剧场",超级英雄电影，有没有你的爱
-https://live.metshop.top/huya/1099531840906
-#EXTINF:-1 tvg-name="经典，近期最好的电视剧" group-title="轮播剧场",经典，近期最好的电视剧
-https://live.metshop.top/huya/1099531752771
-#EXTINF:-1 tvg-name="漫改电影系列 超强剑心来袭" group-title="轮播剧场",漫改电影系列 超强剑心来袭
-https://live.metshop.top/huya/1388457339
-#EXTINF:-1 tvg-name="心慌慌恐怖电影系列  笔仙惊魂" group-title="轮播剧场",心慌慌恐怖电影系列  笔仙惊魂
-https://live.metshop.top/huya/1099531840863
-#EXTINF:-1 tvg-name="[贾玲电影] 人活着，总得拼一次" group-title="轮播剧场",[贾玲电影] 人活着，总得拼一次
-https://live.metshop.top/huya/1239543153969
-#EXTINF:-1 tvg-name="测测胆量！惊悚电影，笔仙神探" group-title="轮播剧场",测测胆量！惊悚电影，笔仙神探
-https://live.metshop.top/huya/1099531840874
-#EXTINF:-1 tvg-name="【僵尸剧神作】钱小豪X郑秀文" group-title="轮播剧场",【僵尸剧神作】钱小豪X郑秀文
-https://live.metshop.top/huya/1099531768058
-#EXTINF:-1 tvg-name="《公主嫁到》剧情多上头？情节爽感拉满！" group-title="轮播剧场",《公主嫁到》剧情多上头？情节爽感拉满！
-https://live.metshop.top/huya/1099531752580
+https://live.metshop.top/huya/30439676
+#EXTINF:-1 tvg-name="经典港剧再现！《刑侦》四季连播，全是童年难忘的回忆！" group-title="轮播剧场",经典港剧再现！《刑侦》四季连播，全是童年难忘的回忆！
+https://live.metshop.top/huya/23358441
 #EXTINF:-1 tvg-name="《天地男儿》全员演技派有多绝？港剧黄金时代的缩影！" group-title="轮播剧场",《天地男儿》全员演技派有多绝？港剧黄金时代的缩影！
-https://live.metshop.top/huya/1099531752619
-#EXTINF:-1 tvg-name="国师名场面暴击！张艺谋电影全收录每帧都是教科书！" group-title="轮播剧场",国师名场面暴击！张艺谋电影全收录每帧都是教科书！
-https://live.metshop.top/huya/1199563484986
-#EXTINF:-1 tvg-name="希望能用动画 传递快乐的力量！" group-title="轮播剧场",希望能用动画 传递快乐的力量！
-https://live.metshop.top/huya/1099531840895
-#EXTINF:-1 tvg-name="A计划 阿娇 张卫健的古早剧你看过没" group-title="轮播剧场",A计划 阿娇 张卫健的古早剧你看过没
-https://live.metshop.top/huya/1099531752641
-#EXTINF:-1 tvg-name="经典动漫假面骑士帝骑来袭！" group-title="轮播剧场",经典动漫假面骑士帝骑来袭！
-https://live.metshop.top/huya/1199563479615
-#EXTINF:-1 tvg-name="厨神小当家09集魔幻小当家" group-title="轮播剧场",厨神小当家09集魔幻小当家
-https://live.metshop.top/huya/1199522059586
-#EXTINF:-1 tvg-name="总动员系列 超经典动画电影" group-title="轮播剧场",总动员系列 超经典动画电影
-https://live.metshop.top/huya/1239543153988
-#EXTINF:-1 tvg-name="渣渣辉演的男主剧" group-title="轮播剧场",渣渣辉演的男主剧
-https://live.metshop.top/huya/1099531752692
-#EXTINF:-1 tvg-name="[活佛济公1-3] 经典古装喜剧" group-title="轮播剧场",[活佛济公1-3] 经典古装喜剧
-https://live.metshop.top/huya/1099531840846
-#EXTINF:-1 tvg-name="经典永流传!重温大家族的兴衰沉浮~" group-title="轮播剧场",经典永流传!重温大家族的兴衰沉浮~
-https://live.metshop.top/huya/1199556520236
-#EXTINF:-1 tvg-name="终于有一部电视剧把长征的伟大展现出来！" group-title="轮播剧场",终于有一部电视剧把长征的伟大展现出来！
-https://live.metshop.top/huya/1099531753569
-#EXTINF:-1 tvg-name="丈夫推娃坠崖骗保！多年后霸总儿子归来，手撕渣男继母" group-title="轮播剧场",丈夫推娃坠崖骗保！多年后霸总儿子归来，手撕渣男继母
-https://live.metshop.top/huya/1199659916495
-#EXTINF:-1 tvg-name="逆袭三部曲：du局・骗局・考场" group-title="轮播剧场",逆袭三部曲：du局・骗局・考场
-https://live.metshop.top/huya/2272712598
-#EXTINF:-1 tvg-name="律政喜剧的next level" group-title="轮播剧场",律政喜剧的next level
-https://live.metshop.top/huya/405885379
-#EXTINF:-1 tvg-name="1" group-title="轮播剧场",1
-https://live.metshop.top/huya/1199572964477
+https://live.metshop.top/huya/20969141
 #EXTINF:-1 tvg-name="瑞克与莫蒂1-6，科幻动画神作" group-title="轮播剧场",瑞克与莫蒂1-6，科幻动画神作
-https://live.metshop.top/huya/1239543150733
-#EXTINF:-1 tvg-name="关于复仇电影-以牙还牙，以血还血" group-title="轮播剧场",关于复仇电影-以牙还牙，以血还血
-https://live.metshop.top/huya/1239543150723
-#EXTINF:-1 tvg-name="解放西的人间百态，比剧还上头！" group-title="轮播剧场",解放西的人间百态，比剧还上头！
-https://live.metshop.top/huya/1524439823
-#EXTINF:-1 tvg-name="超强国产奇幻剧，石坚小龟大冒险" group-title="轮播剧场",超强国产奇幻剧，石坚小龟大冒险
-https://live.metshop.top/huya/1524418114
-#EXTINF:-1 tvg-name="美人设局陷总裁出轨，谁知她竟反水帮正直男主？" group-title="轮播剧场",美人设局陷总裁出轨，谁知她竟反水帮正直男主？
-https://live.metshop.top/huya/1199655595119
-#EXTINF:-1 tvg-name="老病号 林永健李玉刚王小利" group-title="轮播剧场",老病号 林永健李玉刚王小利
-https://live.metshop.top/huya/1199649390249
-#EXTINF:-1 tvg-name="最新惊悚电影来啦 一个人不敢看" group-title="轮播剧场",最新惊悚电影来啦 一个人不敢看
-https://live.metshop.top/huya/1099531752652
-#EXTINF:-1 tvg-name="犯罪电影合集, 全员疯批！" group-title="轮播剧场",犯罪电影合集, 全员疯批！
-https://live.metshop.top/huya/1423782079
-#EXTINF:-1 tvg-name="戴着眼罩跪豪门被验身！天生易孕？这婚是替死局！" group-title="轮播剧场",戴着眼罩跪豪门被验身！天生易孕？这婚是替死局！
-https://live.metshop.top/huya/1199655544855
-#EXTINF:-1 tvg-name="婚碎、屋邪、恨尽，爱归" group-title="轮播剧场",婚碎、屋邪、恨尽，爱归
-https://live.metshop.top/huya/1259521345606
-#EXTINF:-1 tvg-name="国产连续剧黑暗之源，陈道明反派巅峰" group-title="轮播剧场",国产连续剧黑暗之源，陈道明反派巅峰
-https://live.metshop.top/huya/1085739814
-#EXTINF:-1 tvg-name="高达动画元祖的魅力" group-title="轮播剧场",高达动画元祖的魅力
-https://live.metshop.top/huya/1199563478540
-#EXTINF:-1 tvg-name="电影解说-爆裂电影" group-title="轮播剧场",电影解说-爆裂电影
-https://live.metshop.top/huya/1239543150756
-#EXTINF:-1 tvg-name="刀光枪影 十里洋场上海滩" group-title="轮播剧场",刀光枪影 十里洋场上海滩
-https://live.metshop.top/huya/1199645798389
-#EXTINF:-1 tvg-name="悬疑电影大赏 神探大战" group-title="轮播剧场",悬疑电影大赏 神探大战
-https://live.metshop.top/huya/1099531840858
-#EXTINF:-1 tvg-name="韩剧花郎 超美女主高雅拉" group-title="轮播剧场",韩剧花郎 超美女主高雅拉
-https://live.metshop.top/huya/1199648031905
-#EXTINF:-1 tvg-name="国外骗术艺术大赏！谁才是套路之王？" group-title="轮播剧场",国外骗术艺术大赏！谁才是套路之王？
-https://live.metshop.top/huya/1199564060588
+https://live.metshop.top/huya/29982655
+#EXTINF:-1 tvg-name="国产警匪片巅峰，哪有什么岁月静好，只不过是有人替我们负重前行" group-title="轮播剧场",国产警匪片巅峰，哪有什么岁月静好，只不过是有人替我们负重前行
+https://live.metshop.top/huya/23304691
+#EXTINF:-1 tvg-name="星球大战: 宇宙电影的起点" group-title="轮播剧场",星球大战: 宇宙电影的起点
+https://live.metshop.top/huya/30080234
+#EXTINF:-1 tvg-name="经典灾难大片 人类在大自然面前不值一提" group-title="轮播剧场",经典灾难大片 人类在大自然面前不值一提
+https://live.metshop.top/huya/23728647
+#EXTINF:-1 tvg-name="谈判专家 欧阳出品 必属精品" group-title="轮播剧场",谈判专家 欧阳出品 必属精品
+https://live.metshop.top/huya/23863833
+#EXTINF:-1 tvg-name="测测胆量！惊悚电影，笔仙神探" group-title="轮播剧场",测测胆量！惊悚电影，笔仙神探
+https://live.metshop.top/huya/26355795
 #EXTINF:-1 tvg-name="迷幻而重口味的黑色大片合集" group-title="轮播剧场",迷幻而重口味的黑色大片合集
-https://live.metshop.top/huya/1239543150227
-#EXTINF:-1 tvg-name="浴血黑帮1-6，暴爽英剧！" group-title="轮播剧场",浴血黑帮1-6，暴爽英剧！
-https://live.metshop.top/huya/1239543150737
-#EXTINF:-1 tvg-name="全世界都钟爱的盗墓电影鼻祖" group-title="轮播剧场",全世界都钟爱的盗墓电影鼻祖
-https://live.metshop.top/huya/1524418111
-#EXTINF:-1 tvg-name="国外超好看经典电影！不看要后悔了" group-title="轮播剧场",国外超好看经典电影！不看要后悔了
-https://live.metshop.top/huya/1239543151756
-#EXTINF:-1 tvg-name="扣人心弦海外悬疑大片 结局超乎想象" group-title="轮播剧场",扣人心弦海外悬疑大片 结局超乎想象
-https://live.metshop.top/huya/1099531752727
-#EXTINF:-1 tvg-name="子华神的神探剧" group-title="轮播剧场",子华神的神探剧
-https://live.metshop.top/huya/1239543151762
-#EXTINF:-1 tvg-name="这电影解说绝了" group-title="轮播剧场",这电影解说绝了
-https://live.metshop.top/huya/1279543518742
-#EXTINF:-1 tvg-name="从这部剧喜欢上的段奕宏，那年我10岁" group-title="轮播剧场",从这部剧喜欢上的段奕宏，那年我10岁
-https://live.metshop.top/huya/1199561727638
+https://live.metshop.top/huya/29465872
+#EXTINF:-1 tvg-name="国师名场面暴击！张艺谋电影全收录每帧都是教科书！" group-title="轮播剧场",国师名场面暴击！张艺谋电影全收录每帧都是教科书！
+https://live.metshop.top/huya/23863895
+#EXTINF:-1 tvg-name="关于复仇电影-以牙还牙，以血还血" group-title="轮播剧场",关于复仇电影-以牙还牙，以血还血
+https://live.metshop.top/huya/29982645
+#EXTINF:-1 tvg-name="经典动漫假面骑士帝骑来袭！" group-title="轮播剧场",经典动漫假面骑士帝骑来袭！
+https://live.metshop.top/huya/23865164
 #EXTINF:-1 tvg-name="港片女神王祖贤经典电影一起看～" group-title="轮播剧场",港片女神王祖贤经典电影一起看～
-https://live.metshop.top/huya/1239543465891
-#EXTINF:-1 tvg-name="经典喜剧一览，重返当年欢乐！" group-title="轮播剧场",经典喜剧一览，重返当年欢乐！
-https://live.metshop.top/huya/1239543465854
-#EXTINF:-1 tvg-name="少林寺传奇藏经阁" group-title="轮播剧场",少林寺传奇藏经阁
-https://live.metshop.top/huya/1199645790444
-#EXTINF:-1 tvg-name="香港教科级群像医疗剧 n刷on call" group-title="轮播剧场",香港教科级群像医疗剧 n刷on call
-https://live.metshop.top/huya/1099531753537
-#EXTINF:-1 tvg-name="国产乡村剧的天花板" group-title="轮播剧场",国产乡村剧的天花板
-https://live.metshop.top/huya/1099531753587
-#EXTINF:-1 tvg-name="犀利仁师 吴奇隆刘诗诗古装喜剧" group-title="轮播剧场",犀利仁师 吴奇隆刘诗诗古装喜剧
-https://live.metshop.top/huya/1199563452337
-#EXTINF:-1 tvg-name="中国首部女性犯罪电视剧 播放时收视率高达23%" group-title="轮播剧场",中国首部女性犯罪电视剧 播放时收视率高达23%
-https://live.metshop.top/huya/1199540263851
-#EXTINF:-1 tvg-name="拒婚带娃消失 8 年，前夫归来竟要毁了我？" group-title="轮播剧场",拒婚带娃消失 8 年，前夫归来竟要毁了我？
-https://live.metshop.top/huya/1199655596320
-#EXTINF:-1 tvg-name="[正义的重量]大型检察题材电视剧" group-title="轮播剧场",[正义的重量]大型检察题材电视剧
-https://live.metshop.top/huya/1199647231848
-#EXTINF:-1 tvg-name="抗日剧 满山打鬼子" group-title="轮播剧场",抗日剧 满山打鬼子
-https://live.metshop.top/huya/1245781795
-#EXTINF:-1 tvg-name="女子之道 道阻且长" group-title="轮播剧场",女子之道 道阻且长
-https://live.metshop.top/huya/1199563478867
-#EXTINF:-1 tvg-name="剧版cod，真鸡儿爽啊" group-title="轮播剧场",剧版cod，真鸡儿爽啊
-https://live.metshop.top/huya/1099531753564
-#EXTINF:-1 tvg-name="看得很感动啊，棒子拍剧还是有点东西" group-title="轮播剧场",看得很感动啊，棒子拍剧还是有点东西
-https://live.metshop.top/huya/1099531752762
-#EXTINF:-1 tvg-name="吸血鬼日记 好复杂的关系编剧您辛苦了" group-title="轮播剧场",吸血鬼日记 好复杂的关系编剧您辛苦了
-https://live.metshop.top/huya/1099531840898
-#EXTINF:-1 tvg-name="棒子超敢拍 口碑炸裂" group-title="轮播剧场",棒子超敢拍 口碑炸裂
-https://live.metshop.top/huya/1199563995848
+https://live.metshop.top/huya/30631750
+#EXTINF:-1 tvg-name="总动员系列 超经典动画电影" group-title="轮播剧场",总动员系列 超经典动画电影
+https://live.metshop.top/huya/30080256
+#EXTINF:-1 tvg-name="希望能用动画 传递快乐的力量！" group-title="轮播剧场",希望能用动画 传递快乐的力量！
+https://live.metshop.top/huya/26355818
+#EXTINF:-1 tvg-name="[贾玲电影] 人活着，总得拼一次" group-title="轮播剧场",[贾玲电影] 人活着，总得拼一次
+https://live.metshop.top/huya/30080235
 #EXTINF:-1 tvg-name="极速车王 各类赛车电影&纪录片" group-title="轮播剧场",极速车王 各类赛车电影&纪录片
-https://live.metshop.top/huya/1524434097
-#EXTINF:-1 tvg-name="【CSI犯罪现场调查】经典悬疑犯罪美剧" group-title="轮播剧场",【CSI犯罪现场调查】经典悬疑犯罪美剧
-https://live.metshop.top/huya/1099531752683
-#EXTINF:-1 tvg-name="星球大战史上最好的衍生剧《安多》" group-title="轮播剧场",星球大战史上最好的衍生剧《安多》
-https://live.metshop.top/huya/1099531840877
-#EXTINF:-1 tvg-name="我靠，你怎么知道我治疗针都是在厕所找的" group-title="轮播剧场",我靠，你怎么知道我治疗针都是在厕所找的
-https://live.metshop.top/huya/1199563489752
-#EXTINF:-1 tvg-name="印度高分电影 看阿三哥开挂" group-title="轮播剧场",印度高分电影 看阿三哥开挂
-https://live.metshop.top/huya/1099531840878
+https://live.metshop.top/huya/11602051
+#EXTINF:-1 tvg-name="吹牛逆袭泡千金 竹马不追悔成狗" group-title="轮播剧场",吹牛逆袭泡千金 竹马不追悔成狗
+https://live.metshop.top/huya/31002899
+#EXTINF:-1 tvg-name="国外骗术艺术大赏！谁才是套路之王？" group-title="轮播剧场",国外骗术艺术大赏！谁才是套路之王？
+https://live.metshop.top/huya/23903085
+#EXTINF:-1 tvg-name="冯导电影合集，确定不来一起看看？" group-title="轮播剧场",冯导电影合集，确定不来一起看看？
+https://live.metshop.top/huya/30631756
+#EXTINF:-1 tvg-name="刀光枪影 十里洋场上海滩" group-title="轮播剧场",刀光枪影 十里洋场上海滩
+https://live.metshop.top/huya/30309986
+#EXTINF:-1 tvg-name="老病号 林永健李玉刚王小利" group-title="轮播剧场",老病号 林永健李玉刚王小利
+https://live.metshop.top/huya/30438843
+#EXTINF:-1 tvg-name="我的兄弟叫顺溜姐妹篇 我的父亲是板凳" group-title="轮播剧场",我的兄弟叫顺溜姐妹篇 我的父亲是板凳
+https://live.metshop.top/huya/30292047
+#EXTINF:-1 tvg-name="这电影解说绝了" group-title="轮播剧场",这电影解说绝了
+https://live.metshop.top/huya/27693540
+#EXTINF:-1 tvg-name="厨神小当家09集魔幻小当家" group-title="轮播剧场",厨神小当家09集魔幻小当家
+https://live.metshop.top/huya/24257300
+#EXTINF:-1 tvg-name="国外超好看经典电影！不看要后悔了" group-title="轮播剧场",国外超好看经典电影！不看要后悔了
+https://live.metshop.top/huya/30080155
+#EXTINF:-1 tvg-name="抗日剧 满山打鬼子" group-title="轮播剧场",抗日剧 满山打鬼子
+https://live.metshop.top/huya/30439728
+#EXTINF:-1 tvg-name="中国首部女性犯罪电视剧 播放时收视率高达23%" group-title="轮播剧场",中国首部女性犯罪电视剧 播放时收视率高达23%
+https://live.metshop.top/huya/22188414
+#EXTINF:-1 tvg-name="最新泡菜国大片 复仇动作搞笑一网打尽" group-title="轮播剧场",最新泡菜国大片 复仇动作搞笑一网打尽
+https://live.metshop.top/huya/26355838
 #EXTINF:-1 tvg-name="真真假假 假假真真 动画与现实的碰撞" group-title="轮播剧场",真真假假 假假真真 动画与现实的碰撞
-https://live.metshop.top/huya/1099531752577
-#EXTINF:-1 tvg-name="少林寺传奇 重复刷剧的快乐" group-title="轮播剧场",少林寺传奇 重复刷剧的快乐
-https://live.metshop.top/huya/1099531752667
-#EXTINF:-1 tvg-name="沈腾宋小宝综艺的神~千万别吃饭的时候看 笑吐！" group-title="轮播剧场",沈腾宋小宝综艺的神~千万别吃饭的时候看 笑吐！
-https://live.metshop.top/huya/1099531753568
-#EXTINF:-1 tvg-name="爆燃屏幕！经典武打电影合集连播，拳拳到肉看过瘾" group-title="轮播剧场",爆燃屏幕！经典武打电影合集连播，拳拳到肉看过瘾
-https://live.metshop.top/huya/1199563491137
-#EXTINF:-1 tvg-name="人犬共谱的军旅喜剧" group-title="轮播剧场",人犬共谱的军旅喜剧
-https://live.metshop.top/huya/1239543150245
-#EXTINF:-1 tvg-name="父辈都在铁路 这个电视剧我家三代人在追" group-title="轮播剧场",父辈都在铁路 这个电视剧我家三代人在追
-https://live.metshop.top/huya/1099531739639
-#EXTINF:-1 tvg-name="最新动作大片 速来领取你的下饭小菜" group-title="轮播剧场",最新动作大片 速来领取你的下饭小菜
-https://live.metshop.top/huya/1199561223732
-#EXTINF:-1 tvg-name="取经时沙僧写了本日记？！" group-title="轮播剧场",取经时沙僧写了本日记？！
-https://live.metshop.top/huya/1199648941959
-#EXTINF:-1 tvg-name="禁忌女孩06" group-title="轮播剧场",禁忌女孩06
-https://live.metshop.top/huya/1423782052
+https://live.metshop.top/huya/20969098
 #EXTINF:-1 tvg-name="治愈系电视剧，看了真的超级放松啊" group-title="轮播剧场",治愈系电视剧，看了真的超级放松啊
-https://live.metshop.top/huya/1099531840879
-#EXTINF:-1 tvg-name="奇幻武侠盛宴！看武侠世界的虐恋传奇~" group-title="轮播剧场",奇幻武侠盛宴！看武侠世界的虐恋传奇~
-https://live.metshop.top/huya/1199556528729
-#EXTINF:-1 tvg-name="豆瓣 9.4 分封神！《虫师》冷门宝藏动漫" group-title="轮播剧场",豆瓣 9.4 分封神！《虫师》冷门宝藏动漫
-https://live.metshop.top/huya/1099531753552
-#EXTINF:-1 tvg-name="城市猎人动漫版！美女好多" group-title="轮播剧场",城市猎人动漫版！美女好多
-https://live.metshop.top/huya/1099531752696
+https://live.metshop.top/huya/26355800
 #EXTINF:-1 tvg-name="95版武则天  少女的稚气 女皇的霸气" group-title="轮播剧场",95版武则天  少女的稚气 女皇的霸气
-https://live.metshop.top/huya/1099531752614
-#EXTINF:-1 tvg-name="直击现实！你以为只是电影吗？" group-title="轮播剧场",直击现实！你以为只是电影吗？
-https://live.metshop.top/huya/1199556529730
-#EXTINF:-1 tvg-name="经典史诗电影 角斗士 天国王朝" group-title="轮播剧场",经典史诗电影 角斗士 天国王朝
-https://live.metshop.top/huya/1099531752597
-#EXTINF:-1 tvg-name="经典武侠-雪山飞狐 黄日华版" group-title="轮播剧场",经典武侠-雪山飞狐 黄日华版
-https://live.metshop.top/huya/1199561391895
-#EXTINF:-1 tvg-name="仙侠法宝图鉴！盘点那些东方奇幻仙侠电影！" group-title="轮播剧场",仙侠法宝图鉴！盘点那些东方奇幻仙侠电影！
-https://live.metshop.top/huya/1239543150715
-#EXTINF:-1 tvg-name="城市娃vs农村娃？叛逆少年的逆袭！" group-title="轮播剧场",城市娃vs农村娃？叛逆少年的逆袭！
-https://live.metshop.top/huya/1199564000752
-#EXTINF:-1 tvg-name="吴镇宇电影的疯批名场面，哪个让你汗毛倒竖？" group-title="轮播剧场",吴镇宇电影的疯批名场面，哪个让你汗毛倒竖？
-https://live.metshop.top/huya/1199563491091
-#EXTINF:-1 tvg-name="贺岁海外电影，春节笑哈哈" group-title="轮播剧场",贺岁海外电影，春节笑哈哈
-https://live.metshop.top/huya/1239543150702
-#EXTINF:-1 tvg-name="安利大家一部好剧" group-title="轮播剧场",安利大家一部好剧
-https://live.metshop.top/huya/1099531840856
-#EXTINF:-1 tvg-name="用24h的手法拍急诊室真是个绝妙的主意" group-title="轮播剧场",用24h的手法拍急诊室真是个绝妙的主意
-https://live.metshop.top/huya/1199563995872
-#EXTINF:-1 tvg-name="哑舍 古风国产动漫" group-title="轮播剧场",哑舍 古风国产动漫
-https://live.metshop.top/huya/2293254683
-#EXTINF:-1 tvg-name="燃到起鸡皮疙瘩！体育电影名场面，一次性看个够！" group-title="轮播剧场",燃到起鸡皮疙瘩！体育电影名场面，一次性看个够！
-https://live.metshop.top/huya/1199563459301
+https://live.metshop.top/huya/20969136
+#EXTINF:-1 tvg-name="印度高分电影 看阿三哥开挂" group-title="轮播剧场",印度高分电影 看阿三哥开挂
+https://live.metshop.top/huya/26355799
+#EXTINF:-1 tvg-name="没有老白和小粉，Saul照样独撑一片天" group-title="轮播剧场",没有老白和小粉，Saul照样独撑一片天
+https://live.metshop.top/huya/23903142
+#EXTINF:-1 tvg-name="最新惊悚电影来啦 一个人不敢看" group-title="轮播剧场",最新惊悚电影来啦 一个人不敢看
+https://live.metshop.top/huya/20985789
+#EXTINF:-1 tvg-name="犯罪电影合集, 全员疯批！" group-title="轮播剧场",犯罪电影合集, 全员疯批！
+https://live.metshop.top/huya/11352908
+#EXTINF:-1 tvg-name="城市猎人动漫版！美女好多" group-title="轮播剧场",城市猎人动漫版！美女好多
+https://live.metshop.top/huya/20985840
+#EXTINF:-1 tvg-name="奇幻武侠盛宴！看武侠世界的虐恋传奇~" group-title="轮播剧场",奇幻武侠盛宴！看武侠世界的虐恋传奇~
+https://live.metshop.top/huya/23358431
 #EXTINF:-1 tvg-name="经典动漫电影 狂王来了！" group-title="轮播剧场",经典动漫电影 狂王来了！
-https://live.metshop.top/huya/1199578114999
-#EXTINF:-1 tvg-name="曼达洛人衍生剧 找回了星战最本质的趣味" group-title="轮播剧场",曼达洛人衍生剧 找回了星战最本质的趣味
-https://live.metshop.top/huya/1099531752628
-#EXTINF:-1 tvg-name="小排球 纯粹的运动漫画" group-title="轮播剧场",小排球 纯粹的运动漫画
-https://live.metshop.top/huya/1099531752664
-#EXTINF:-1 tvg-name="[剧场版] 我可是要成为海贼王的男人！" group-title="轮播剧场",[剧场版] 我可是要成为海贼王的男人！
-https://live.metshop.top/huya/1239543150711
-#EXTINF:-1 tvg-name="娜扎好美 男的也是个男的" group-title="轮播剧场",娜扎好美 男的也是个男的
-https://live.metshop.top/huya/1199578397472
-#EXTINF:-1 tvg-name="谁懂啊！20 年了《创世纪》还是商战剧天花板！" group-title="轮播剧场",谁懂啊！20 年了《创世纪》还是商战剧天花板！
-https://live.metshop.top/huya/1099531752699
-#EXTINF:-1 tvg-name="最新岛国动画大片" group-title="轮播剧场",最新岛国动画大片
-https://live.metshop.top/huya/1099531840866
-#EXTINF:-1 tvg-name="铁拳教育 解压爽剧以暴制暴" group-title="轮播剧场",铁拳教育 解压爽剧以暴制暴
-https://live.metshop.top/huya/1199563493628
-#EXTINF:-1 tvg-name="李莲英 太监版金枝欲孽" group-title="轮播剧场",李莲英 太监版金枝欲孽
-https://live.metshop.top/huya/1199578396559
-#EXTINF:-1 tvg-name="新西游记 笑掉头系列" group-title="轮播剧场",新西游记 笑掉头系列
-https://live.metshop.top/huya/1199578395474
-#EXTINF:-1 tvg-name="你心中最强剑士是谁？" group-title="轮播剧场",你心中最强剑士是谁？
-https://live.metshop.top/huya/1199578060271
-#EXTINF:-1 tvg-name="边骂边看!顶楼今天到底谁领盒饭！" group-title="轮播剧场",边骂边看!顶楼今天到底谁领盒饭！
-https://live.metshop.top/huya/1199563489431
-#EXTINF:-1 tvg-name="空战群英 出色的二战空战动作剧情片" group-title="轮播剧场",空战群英 出色的二战空战动作剧情片
-https://live.metshop.top/huya/1239543151766
-#EXTINF:-1 tvg-name="狄仁杰系列电影，悬疑烧脑的探案故事" group-title="轮播剧场",狄仁杰系列电影，悬疑烧脑的探案故事
-https://live.metshop.top/huya/1239543153965
-#EXTINF:-1 tvg-name="漫威zui夯科幻剧" group-title="轮播剧场",漫威zui夯科幻剧
-https://live.metshop.top/huya/1199563461114
+https://live.metshop.top/huya/24884368
+#EXTINF:-1 tvg-name="我靠，你怎么知道我治疗针都是在厕所找的" group-title="轮播剧场",我靠，你怎么知道我治疗针都是在厕所找的
+https://live.metshop.top/huya/23863882
+#EXTINF:-1 tvg-name="豆瓣 9.4 分封神！《虫师》冷门宝藏动漫" group-title="轮播剧场",豆瓣 9.4 分封神！《虫师》冷门宝藏动漫
+https://live.metshop.top/huya/21241791
 #EXTINF:-1 tvg-name="此生必看豆瓣9。5高分电影！" group-title="轮播剧场",此生必看豆瓣9。5高分电影！
-https://live.metshop.top/huya/1199578018376
-#EXTINF:-1 tvg-name="好久没看这么地道的刑侦（悬疑）剧了" group-title="轮播剧场",好久没看这么地道的刑侦（悬疑）剧了
-https://live.metshop.top/huya/1099531768062
-#EXTINF:-1 tvg-name="无聊点进来笑一笑 别笑出猪叫" group-title="轮播剧场",无聊点进来笑一笑 别笑出猪叫
-https://live.metshop.top/huya/1239543150250
-#EXTINF:-1 tvg-name="金智媛美到窒息！剧情高能预警！" group-title="轮播剧场",金智媛美到窒息！剧情高能预警！
-https://live.metshop.top/huya/1199563492830
+https://live.metshop.top/huya/24844242
+#EXTINF:-1 tvg-name="网络大电影 天雷滚滚" group-title="轮播剧场",网络大电影 天雷滚滚
+https://live.metshop.top/huya/21059529
+#EXTINF:-1 tvg-name="边骂边看!顶楼今天到底谁领盒饭！" group-title="轮播剧场",边骂边看!顶楼今天到底谁领盒饭！
+https://live.metshop.top/huya/23865072
+#EXTINF:-1 tvg-name="沈腾宋小宝综艺的神~千万别吃饭的时候看 笑吐！" group-title="轮播剧场",沈腾宋小宝综艺的神~千万别吃饭的时候看 笑吐！
+https://live.metshop.top/huya/21241812
+#EXTINF:-1 tvg-name="[剧场版] 我可是要成为海贼王的男人！" group-title="轮播剧场",[剧场版] 我可是要成为海贼王的男人！
+https://live.metshop.top/huya/29982634
+#EXTINF:-1 tvg-name="最新岛国动画大片" group-title="轮播剧场",最新岛国动画大片
+https://live.metshop.top/huya/26355787
+#EXTINF:-1 tvg-name="哑舍 古风国产动漫" group-title="轮播剧场",哑舍 古风国产动漫
+https://live.metshop.top/huya/16020022
+#EXTINF:-1 tvg-name="燃到起鸡皮疙瘩！体育电影名场面，一次性看个够！" group-title="轮播剧场",燃到起鸡皮疙瘩！体育电影名场面，一次性看个够！
+https://live.metshop.top/huya/23864480
+#EXTINF:-1 tvg-name="扣人心弦海外悬疑大片 结局超乎想象" group-title="轮播剧场",扣人心弦海外悬疑大片 结局超乎想象
+https://live.metshop.top/huya/21059530
+#EXTINF:-1 tvg-name="父辈都在铁路 这个电视剧我家三代人在追" group-title="轮播剧场",父辈都在铁路 这个电视剧我家三代人在追
+https://live.metshop.top/huya/880241
+#EXTINF:-1 tvg-name="【CSI犯罪现场调查】经典悬疑犯罪美剧" group-title="轮播剧场",【CSI犯罪现场调查】经典悬疑犯罪美剧
+https://live.metshop.top/huya/20985825
+#EXTINF:-1 tvg-name="爆燃屏幕！经典武打电影合集连播，拳拳到肉看过瘾" group-title="轮播剧场",爆燃屏幕！经典武打电影合集连播，拳拳到肉看过瘾
+https://live.metshop.top/huya/23865179
+#EXTINF:-1 tvg-name="经典史诗电影 角斗士 天国王朝" group-title="轮播剧场",经典史诗电影 角斗士 天国王朝
+https://live.metshop.top/huya/20969119
+#EXTINF:-1 tvg-name="最新动作大片 速来领取你的下饭小菜" group-title="轮播剧场",最新动作大片 速来领取你的下饭小菜
+https://live.metshop.top/huya/23728651
+#EXTINF:-1 tvg-name="绝境求生电影，实在太过刺激！" group-title="轮播剧场",绝境求生电影，实在太过刺激！
+https://live.metshop.top/huya/20985793
+#EXTINF:-1 tvg-name="仙侠法宝图鉴！盘点那些东方奇幻仙侠电影！" group-title="轮播剧场",仙侠法宝图鉴！盘点那些东方奇幻仙侠电影！
+https://live.metshop.top/huya/29982638
+#EXTINF:-1 tvg-name="直击现实！你以为只是电影吗？" group-title="轮播剧场",直击现实！你以为只是电影吗？
+https://live.metshop.top/huya/23352525
+#EXTINF:-1 tvg-name="小排球 纯粹的运动漫画" group-title="轮播剧场",小排球 纯粹的运动漫画
+https://live.metshop.top/huya/20985802
+#EXTINF:-1 tvg-name="黄磊海清再演夫妻！小欢喜里的中年父母生存实录" group-title="轮播剧场",黄磊海清再演夫妻！小欢喜里的中年父母生存实录
+https://live.metshop.top/huya/21241816
