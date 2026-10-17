@@ -1,9 +1,9 @@
 # IPTV-Sources · 影视仓 / TVBox 直播源
 
-> **765 个直播频道**，以 vbskycn 公共源为底子，叠加虎牙「一起看」电影 / 电视剧轮播频道合并而成。
+> **750 个直播频道**，以 vbskycn 公共源为底子，叠加虎牙「一起看」电影 / 电视剧轮播频道合并而成。
 > 已在 2026-10 完成全量去重 + 真流校验（无 13 位 uid 假房间、无 2:14 广告占位片）。
 
-A Chinese IPTV playlist (765 channels) for **TVBox / 影视仓(YSC) / Kodi / VLC / PotPlayer**.
+A Chinese IPTV playlist (750 channels) for **TVBox / 影视仓(YSC) / Kodi / VLC / PotPlayer**.
 Curated & verified: deduplicated, real-stream checked, ready to import by URL.
 
 ---
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/zhaozhaozha/iptv-sources/main/vbsky-huya-vlc.m
 
 ---
 
-## 🗂 频道内容总览（765 台 / 12 个分组）
+## 🗂 频道内容总览（750 台 / 12 个分组）
 
 | 分组 | 台数 | 内容类型 |
 | :--- | ---: | :--- |
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/zhaozhaozha/iptv-sources/main/vbsky-huya-vlc.m
 | **卫视频道** | 44 | 全国省级卫视（东方 / 湖南 / 江苏 / 浙江 / 北京 / 广东…） |
 | **地方频道** | 250 | 全国各地市台、县台、新闻综合、公共频道（含量最大） |
 | **虎牙频道** | 191 | 🎬 虎牙「一起看」电影直播间：星爷 / 英叔 / 成龙 / 发哥 / 漫威 / 港片 / 战争 / 喜剧 / 玄幻… |
-| **轮播剧场** | 140 | 📺 24 小时剧集轮播：港剧、TVB 西游记、雍正王朝、神探狄仁杰、新三国、僵尸片、经典电影… |
+| **轮播剧场** | 125 | 📺 24 小时剧集轮播：港剧、TVB 西游记、雍正王朝、神探狄仁杰、新三国、僵尸片、经典电影… |
 | **电影频道** | 38 | CHC 系列（CHC 电影 / CHC 动作电影）、影视娱乐台、经典喜剧轮播 |
 | **纪录频道** | 30 | CGTN 纪录、航拍中国、人与自然、地方纪录频道 |
 | **春晚频道** | 22 | 1987–近年央视春晚全场回放（怀旧向） |
@@ -72,16 +72,16 @@ https://raw.githubusercontent.com/zhaozhaozha/iptv-sources/main/vbsky-huya-vlc.m
 
 | | `vbsky-huya.m3u` | `vbsky-huya-vlc.m3u` |
 | :--- | :--- | :--- |
-| 台数 | 765 | 765（完全相同） |
+| 台数 | 750 | 750（完全相同） |
 | 体积 | 约 150 KB | 约 300 KB |
-| `#EXTVLCOPT` | ❌ 无 | ✅ 1880 条 |
+| `#EXTVLCOPT` | ❌ 无 | ✅ 1835 条 |
 | 适用 | 影视仓、TVBox、Kodi、手机播放器 | **VLC 桌面版** |
 | 原因 | 播放器自带 UA 处理 | VLC 不会自动带 User-Agent / Referer，虎牙源会 403 |
 
 VLC 版每个频道预置了：
-- `http-user-agent`（765 台全带）
-- `network-caching=1000`（765 台全带，降低卡顿）
-- `http-referrer`（350 台带，虎牙及部分地方台必需）
+- `http-user-agent`（750 台全带）
+- `network-caching=1000`（750 台全带，降低卡顿）
+- `http-referrer`（335 台带，虎牙及部分地方台必需）
 
 > ⚠️ 用 VLC 请务必选 **VLC 专用版**，否则虎牙频道全部播不了。
 
@@ -94,7 +94,7 @@ VLC 版每个频道预置了：
 1. 复制通用版地址：
    `https://cdn.jsdelivr.net/gh/zhaozhaozha/iptv-sources@main/vbsky-huya.m3u`
 2. 进入 **设置 → 直播 / 自定义直播源 → 添加**
-3. 粘贴地址保存 → 刷新 → 频道列表出现 12 个分组、765 个台
+3. 粘贴地址保存 → 刷新 → 频道列表出现 12 个分组、750 个台
 
 ### VLC
 
@@ -108,9 +108,10 @@ VLC 版每个频道预置了：
 ## 🔧 数据说明
 
 - **来源构成**：vbskycn 公共 IPTV 源为主干（央视 / 卫视 / 地方 / 纪录 / 儿童 / 音乐 / 体育），叠加虎牙「一起看」影视直播间（`虎牙频道` + `轮播剧场`）。
-- **协议分布**：`https` 488 台 / `http` 277 台。
+- **协议分布**：`https` 473 台 / `http` 277 台。
 - **质量校验**：虎牙系列全部改用 `profileRoom`（8 位真房间号）取流，响应首字节必须为 `FLV` —— 已剔除所有返回 2:14 广告占位片的失效频道。
 - **去重策略**：全表同名频道保留 **虎牙频道** 分组版本，重复 0 条。
+- **最新复检（2026-10-17）**：虎牙频道 191 台 **191/191 全部存活**；轮播剧场按虎牙实时房间表重建 125 台，194 个候选房 **194/194 真流**，已剔除全部转广告的旧房间。
 - **CDN**：走 jsDelivr 全球加速；更新后如未生效可访问 `https://purge.jsdelivr.net/gh/zhaozhaozha/iptv-sources@main/vbsky-huya.m3u` 刷新缓存。
 
 ---
@@ -142,4 +143,4 @@ VLC 版每个频道预置了：
 
 ---
 
-_Last updated: 2026-10-05 · 765 channels · 12 groups_
+_Last updated: 2026-10-17 · 750 channels · 12 groups_
